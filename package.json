@@ -1,6 +1,6 @@
 {
   "name": "bluemix-iot-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "client that reads standard input and uploads it to bluemix",
   "main": "index.js",
   "author": "Boris Sirota <borisirota@gmail.com> (https://github.com/borisirota)",
