@@ -5,13 +5,13 @@
   "main": "index.js",
   "author": "Boris Sirota <borisirota@gmail.com> (https://github.com/borisirota)",
   "license": "MIT",
-  "homepage": "https://github.com/borisirota/serial-port-reader",
+  "homepage": "https://github.com/borisirota/bluemix-iot-client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/borisirota/serial-port-reader.git"
+    "url": "https://github.com/borisirota/bluemix-iot-client.git"
   },
   "bugs": {
-    "url": "https://github.com/borisirota/serial-port-reader/issues"
+    "url": "https://github.com/borisirota/bluemix-iot-client/issues"
   },
   "bin": {
     "bluemix-iot-client": "bin/bluemix-iot-client.js"
